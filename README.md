@@ -7,3 +7,5 @@ add sentence
 commit
 
 push
+
+pull
